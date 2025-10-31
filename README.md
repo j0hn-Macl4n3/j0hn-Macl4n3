@@ -16,23 +16,40 @@ Gosto de transformar complexidade em clareza — seja automatizando processos, i
     <a href="https://www.instagram.com/ricardo.guirado/">
         <img 
             alt="Instagram"
-            title="Perfil Profissional" 
+            title="Perfil Profissional"
             src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
-    <a href="https://www.youtube.com/@larissakich">
+    <a href="https://www.linkedin.com/in/ricardoguiradoanalistainfosec/">
         <img 
             alt="LinkedIn" 
             title="Perfil" 
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
-    </a> 
-    <a href="https://github.com/j0hn-Macl4n3?tab=repositories&sort=stargazers">
+    </a>
+    <a <a href="mailto:ricardoguirado.consultoria@gmail.com">
         <img 
-            alt="Estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/j0hn-Macl4n3?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-    </p>
+            alt="E-mail"
+            title="Contato"
+            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+        />
+     </a>
+    <a href="https://discord.com/users/971091126759088249" target="_blank">
+        <img 
+            alt="Discord"
+            title="Meu perfil no Discord"
+            src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
+       />
+    </a>
+    <a href="https://www.facebook.com/ricardoguirado.analista.infosec/">
+        <img 
+            alt="Facebook"
+            title="Perfil Profissional"
+            src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)"
+       />
+    </a>
+</p>
+
 
 ---
 
@@ -168,3 +185,11 @@ Gosto de transformar complexidade em clareza — seja automatizando processos, i
   />
 
 </p>
+
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/j0hn-Macl4n3/j0hn-Macl4n3/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/j0hn-Macl4n3/j0hn-Macl4n3/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/j0hn-Macl4n3/j0hn-Macl4n3/output/github-contribution-grid-snake.svg">
+</picture>
+
