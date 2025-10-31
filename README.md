@@ -1,11 +1,13 @@
+<img src="https://github.com/user-attachments/assets/a9f90e76-2402-4890-ad7b-aadc42130f46" alt="Profile Cover" width="100%" />
+
 # 👨🏻‍💻 Ricardo M. Guirado
 
+---
 **`Analista de Segurança da Informação`**
 
 ---
-
-Sou Analista de Segurança da Informação com foco em Cibersegurança, apaixonado por tecnologia, desafios e por entender o que há por trás dos bastidores digitais. Atuo de forma avançada na proteção de sistemas e dados, combinando técnica, estratégia e aprendizado constante.
-Atualmente, estou cursando **Qualificação Intensiva em Segurança da Informação no SJIT**, aprimorando meus conhecimentos em linguagens, frameworks e ferramentas voltadas à área de cibersegurança.
+<span>Atuo na área de Segurança da Informação com foco em Cibersegurança, apaixonado por tecnologia, hacking, CTF's, desafios e por entender o que há por trás dos bastidores digitais. Ajo de forma avançada na proteção de sistemas e dados, combinando técnica, estratégia e aprendizado constante.</span>&nbsp;  
+<span>Atualmente, estou cursando <i><b>Qualificação Intensiva em Segurança da Informação</b></i> no [SJIT](https://sanjose.institute/), aprimorando meus conhecimentos em linguagens, frameworks e ferramentas voltadas à área de cibersegurança.</span>&nbsp;  
 Gosto de transformar complexidade em clareza — seja automatizando processos, investigando vulnerabilidades ou criando soluções seguras e eficientes. Sempre em busca de aprender, testar e evoluir. 🚀
 
 ---
@@ -35,7 +37,7 @@ Gosto de transformar complexidade em clareza — seja automatizando processos, i
 ---
 
 ### 🤖 Linguagens e Tecnologias
-<br/>
+
 <img 
     align="left" 
     alt="Windows"
@@ -144,6 +146,8 @@ Gosto de transformar complexidade em clareza — seja automatizando processos, i
 
 <br/>
 <br/>
+
+---
 
 ### 📊 Estatísticas
 
